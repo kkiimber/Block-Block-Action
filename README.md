@@ -1,5 +1,3 @@
----
-
 # Block Block Action!
 
 A mod that allows operators to protect blocks and entities from destruction, explosions, interaction, and placement of blocks next to them.
