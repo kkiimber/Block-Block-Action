@@ -1,0 +1,11 @@
+{
+  "item.blockblockaction.protector_wand": "Protector Wand",
+  "itemGroup.blockblockaction.block_block_action": "Block Block Action",
+  "key.categories.blockblockaction": "Block Block Action",
+  "key.blockblockaction.mode_modifier": "Change protection mode",
+  "protection.blockblockaction.none": "Protection: none",
+  "protection.blockblockaction.break_only": "Protection: break blocked",
+  "protection.blockblockaction.break_and_interact": "Protection: break and interaction blocked",
+  "protection.blockblockaction.break_and_place": "Protection: break and placement blocked",
+  "protection.blockblockaction.break_interact_and_place": "Protection: break, interaction and placement blocked"
+}

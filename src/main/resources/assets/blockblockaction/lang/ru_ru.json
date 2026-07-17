@@ -1,0 +1,11 @@
+{
+  "item.blockblockaction.protector_wand": "Жезл защиты",
+  "itemGroup.blockblockaction.block_block_action": "Block Block Action",
+  "key.categories.blockblockaction": "Block Block Action",
+  "key.blockblockaction.mode_modifier": "Изменение режима защиты",
+  "protection.blockblockaction.none": "Защита: нет",
+  "protection.blockblockaction.break_only": "Защита: запрет разрушения",
+  "protection.blockblockaction.break_and_interact": "Защита: запрет разрушения и взаимодействия",
+  "protection.blockblockaction.break_and_place": "Защита: запрет разрушения и размещения",
+  "protection.blockblockaction.break_interact_and_place": "Защита: запрет разрушения, взаимодействия и размещения"
+}

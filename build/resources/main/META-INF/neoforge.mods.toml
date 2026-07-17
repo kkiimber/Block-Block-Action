@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="blockblockaction"
+version="1.0.0"
+displayName="Block Block Action"
+description='''
+Protect blocks from destruction and interaction using the Protector Wand.
+'''
+
+[[dependencies.blockblockaction]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.235,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.blockblockaction]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1]"
+ordering="NONE"
+side="BOTH"
